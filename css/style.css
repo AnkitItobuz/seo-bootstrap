@@ -1,0 +1,7 @@
+.title-dot {
+    font-size: 100px;
+}
+.nav-details {
+    display: flex;
+    gap: 3rem;
+}
